@@ -1,6 +1,6 @@
-package Session25.bt2;
+package Session26.bt2;
 
-import Session25.bt1.ConnectDatabase;
+import Session26.bt1.ConnectDatabase;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

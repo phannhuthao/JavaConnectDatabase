@@ -1,6 +1,6 @@
-package Session25.bt4;
+package Session26.bt4;
 
-import Session25.bt3.ConnectDatabase;
+import Session26.bt3.ConnectDatabase;
 
 import java.sql.Connection;
 import java.sql.SQLException;

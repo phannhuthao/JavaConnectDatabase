@@ -1,4 +1,4 @@
-package Session25.bt6;
+package Session26.bt6;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

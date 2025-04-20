@@ -1,4 +1,4 @@
-package Session25.bt2;
+package Session26.bt2;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package Session25.bt1;
+package Session26.bt1;
 
 import java.sql.Connection;
 import java.sql.SQLException;

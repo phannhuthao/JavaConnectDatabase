@@ -1,4 +1,4 @@
-package Session25.bt1;
+package Session26.bt6;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConnectDatabase {
     public static final String DRIVER = "com.mysql.cj.jdbc.Driver";
-    public static final String URL = "jdbc:mysql://localhost:3306/first_conection_db?createDatabaseIfNotExist=true";
+    public static final String URL = "jdbc:mysql://localhost:3306/my_db_6";
     public static final String USERNAME = "root";
     public static final String PASSWORD = "";
 
